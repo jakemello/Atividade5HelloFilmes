@@ -1,0 +1,14 @@
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=swap');
+
+:root {
+  --pink: #ff69b4;
+  --bg: #e67bcf;
+  --text: #ffffff;
+}
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
